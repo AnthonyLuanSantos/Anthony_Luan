@@ -1,1 +1,2 @@
 # Anthony Luan
+Este é o meu primeiro projeto de programação com automação desenvolvido em Python, criado com o objetivo de aplicar na prática os conhecimentos que venho adquirindo e expandir minhas habilidades na área de desenvolvimento.
